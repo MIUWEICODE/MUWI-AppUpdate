@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<newest_official>none</newest_official>
+	<official_package>./UPDPKG/OFFICIAL/PKG.ZIP</official_package>
+	<official_package_checksum>none</official_package_checksum>
+	<newest_beta>0.2</newest_beta>
+	<beta_package>./UPDPKG/BETA/PKG.ZIP</beta_package>
+	<beta_package_checksum>none</beta_package_checksum>
+</root>
